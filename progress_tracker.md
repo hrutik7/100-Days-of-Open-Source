@@ -14,7 +14,7 @@ I was working on a issue  [Replace filter status code input field with combox li
 
 **Note:** It takes two approvals for entries to be merged, so I will check in later this week or tomorrow for updates.
 
-- **OpenSauced Highlight**: [Term Entry: `<progress>`](https://github.com/openstatusHQ/openstatus/pull/327)
+- **OpenSauced Highlight**: [OpenstatusHQ](https://github.com/openstatusHQ/openstatus/pull/327)
 
 ----
 
@@ -32,5 +32,15 @@ I was working on a issue  [Replace filter status code input field with combox li
 - **Challenges faced**:
 - One of the major issues I faced is solving merge conflicts. and I am quite new to remix so that was a bit of a challenge for me.
 
+----
 
+## Day 3
 
+- **Project**: [openstatusHQ](https://github.com/openstatusHQ/openstatus)
+- **Description of Project**: OpenStatus is an open source alternative to your current monitoring service with a beautiful status page.
+- **Goals**: Learn more about the open source community.
+- **Tasks completed**:
+  Previously I was facing issue in tinybird setup so I help some guys to solve this issue in the community and raised the PR for the docs . after including this in 
+  docs hopefully no devs faced this issue again
+
+----
