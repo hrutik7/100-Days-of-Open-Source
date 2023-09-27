@@ -44,3 +44,14 @@ I was working on a issue  [Replace filter status code input field with combox li
   docs hopefully no devs faced this issue again
 
 ----
+
+## Day 4
+
+- **Project**: [openstatusHQ](https://github.com/openstatusHQ/openstatus) , [revert](https://github.com/revertinc/Revert)
+- **Description of Project**: OpenStatus is an open source alternative to your current monitoring service with a beautiful status page , Revert is an open-source 
+    unified API to build, maintain and scale your CRM integrations. 
+- **Goals**: Sharpen my dev skills
+- **Tasks completed**:
+  - I got some review on the PR I just completed that for the openstatus .
+  - I got one issue assigned from the revert devs so i just completed the setup and dive into the codebase
+----
