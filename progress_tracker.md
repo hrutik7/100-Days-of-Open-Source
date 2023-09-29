@@ -55,3 +55,24 @@ I was working on a issue  [Replace filter status code input field with combox li
   - I got some review on the PR I just completed that for the openstatus .
   - I got one issue assigned from the revert devs so i just completed the setup and dive into the codebase
 ----
+
+## Day 5
+
+- **Project**:  [revert](https://github.com/revertinc/Revert)
+- **Description of Project**: Revert is an open-source unified API to build, maintain and scale your CRM integrations. 
+- **Goals**: Sharpen my dev skills
+- **Tasks completed**:
+  - studided the slack integration
+  - Fixed the blocker due to the setup
+----
+
+## Day 6
+
+- **Project**:  [revert](https://github.com/revertinc/Revert)
+- **Description of Project**: Revert is an open-source unified API to build, maintain and scale your CRM integrations. 
+- **Goals**: Sharpen my dev skills
+- **Tasks completed**:
+  - Raised a draft PR for the discord integration
+----
+
+
